@@ -1,4 +1,8 @@
-# firebase-vue-auth-example
+# An Introduction To Vue Testing With Jest - (Realworld App)
+
+Practice code from [An Introduction To Vue Testing With Jest - (Realworld App)](https://www.youtube.com/watch?v=Fbo4pttBZ9k&list=PL-lxoPS_1OXVxbqnFQTfhT4IQVnRh8wc8&index=3)
+
+
 
 ## Project setup
 ```
